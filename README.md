@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am full stack developer currently working on b2c connection app
+I am full stack developer and Gen Ai Devloper
 
 
 ## 🌐 Socials:
